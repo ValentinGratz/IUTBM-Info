@@ -5,7 +5,7 @@
   "main": "bot.js",
   "author": "Dastan21",
   "dependencies": {
-    "canvas": "^2.6.1",
+    "canvas": "^2.11.2",
     "discord.js": "^12.3.1",
     "mongoose": "^5.13.20",
     "phin": "^3.5.0",
